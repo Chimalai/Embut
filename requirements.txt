@@ -1,0 +1,7 @@
+web3
+eth-account
+aiohttp
+aiohttp-socks
+colorama
+pytz
+python-dotenv
